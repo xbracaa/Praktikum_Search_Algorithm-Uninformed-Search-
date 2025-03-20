@@ -1,16 +1,22 @@
+Nama : Kailla Salsabila
+NIM : 2306064
+Kelas : B
+
 Praktikum Algoritma Pencarian (Search Algorithms)
 
-Deskripsi
-Repository ini berisi implementasi berbagai algoritma pencarian dalam Python, meliputi:
-Uninformed Search: 
-- DFS
-- BFS
-- UCS
+Repository ini berisi implementasi berbagai algoritma pencarian berbasis heuristik dalam Python, meliputi:
+
+Algoritma yang Diimplementasikan
+Greedy Best-First Search (GBFS)
+A* Tree Search
+A* Graph Search
 
 File dalam Repository
-- dfs.py -> Implementasi Depth First Search
-- bfs.py -> Implementasi Breadth First Search
-- ucs.py -> Implementasi Uniform Cost Search
+greedy.py → Implementasi Greedy Best-First Search
+astar_tree.py → Implementasi A* Tree Search
+astar_graph.py → Implementasi A* Graph Search
+screenshot hasil running
 
 Cara Menjalankan di Google Colab
-Clone repository ini ke Google Colab atau komputer lokal:
+Clone repository ini ke Google Colab atau komputer lokal
+Repository ini bertujuan untuk memahami dan membandingkan kinerja algoritma pencarian berbasis heuristik dalam berbagai skenario.
